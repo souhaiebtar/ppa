@@ -1,0 +1,16 @@
+Package: sublime-text
+Version: 4169
+Architecture: amd64
+Maintainer: Sublime HQ Pty Ltd <support@sublimetext.com>
+Installed-Size: 49330
+Depends: libgtk-3-0, libcurl3 | libcurl4
+Filename: ./sublime-text_build-4169_amd64.deb
+Size: 15622456
+MD5sum: 2eb9b7b1f5090088e5650229355fd302
+SHA1: 93b042aa917c49892962c41be6a72baa44092268
+SHA256: e1bac169546317f246cc58adbdd20264c78486f12112b3c9ee303aa863c38f7f
+Section: editors
+Priority: optional
+Description: Sublime Text is a sophisticated text editor for code, markup and prose
+Build-Depends: libgtk-3-0, libcurl3 | libcurl4
+
